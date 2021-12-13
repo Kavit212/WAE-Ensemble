@@ -21,8 +21,8 @@ For additional image request and questions regarding the codes, please contact: 
 ## Usage
 
 1) The codes are given in the form of Google Colab notebook.
-2) Train and test model according to the instruction given by the WAE-Ensemble notebook.
-3) Use the Grad-CAM_EM notebook to perform the grad-cam verification. 
+2) Train and test model according to the instruction given by the WAE_Ensemble notebook.
+3) Use the Grad_CAM_EM notebook to perform the grad-cam verification. 
 
 
 The Grad-CAM code in this repository has been adapted from https://github.com/kiraving/SegGradCAM.
