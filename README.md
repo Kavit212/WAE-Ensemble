@@ -12,6 +12,7 @@ GPU is crucial for training.
 ### Dataset
 
 Sample images for training and testing are available at https://lmb.informatik.uni-freiburg.de/resources/datasets/tem.en.html
+
 For additional image request and questions regarding the codes, please contact: kavitha.shaga-devan@uni-ulm.de 
 
 ## Usage
