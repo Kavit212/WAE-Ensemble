@@ -1,5 +1,5 @@
 # WAE-Ensemble
-Weighted Average Ensemble method for the for the semantic segmentation of biological electron microscopy images.
+Weighted Average Ensemble method for the semantic segmentation of biological electron microscopy images.
 
 # Pre-trained models
 ResNet34
