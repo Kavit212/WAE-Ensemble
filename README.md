@@ -2,11 +2,7 @@
 Weighted Average Ensemble method for the semantic segmentation of biological electron microscopy images.
 
 # Pre-trained models
-ResNet34
-InceptionV3
-VGG19
-SeResNet34
-EfficientNet-B4
+ResNet34, InceptionV3, VGG19, SeResNet34, EfficientNet-B4
 
 ### Requirements
 
