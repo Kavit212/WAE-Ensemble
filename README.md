@@ -12,7 +12,9 @@ GPU is crucial for training.
 ###  Pre-trained weights and Image dataset
 
 Pre-trained weights for all dataset are available at
+
 All image datasets (1-7) are available for training and testing at 
+
 Image dataset 4-7 for training and testing are available at https://lmb.informatik.uni-freiburg.de/resources/datasets/tem.en.html
 
 
@@ -25,5 +27,6 @@ Image dataset 4-7 for training and testing are available at https://lmb.informat
 
 
 The Grad-CAM code in this repository has been adapted from https://github.com/kiraving/SegGradCAM.
+
 Dataset 4-7 are publicly available images from  https://lmb.informatik.uni-freiburg.de/resources/datasets/tem.en.html
 
