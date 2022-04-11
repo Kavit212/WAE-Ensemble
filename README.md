@@ -15,13 +15,10 @@ Pre-trained weights for all dataset are available at
 
 All image datasets (1-7) are available for training and testing at 
 
-Image dataset 4-7 for training and testing are available at https://lmb.informatik.uni-freiburg.de/resources/datasets/tem.en.html
-
-
 
 ## Usage
 
-1) The codesare given in the form of Google Colab notebook.
+1) The codes are given in the form of Google Colab notebook.
 2) Train and test model according to the instruction given by the WAE_Net_Ensemble notebook.
 3) Use the WAE-Net_Grad_CAM_Ensemble notebook to perform the Grad-CAM verification. 
 
