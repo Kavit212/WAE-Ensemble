@@ -11,7 +11,7 @@ GPU is crucial for training.
 
 ###  Pre-trained weights and Image dataset
 
-Pre-trained weights for all dataset are available at https://drive.google.com/drive/folders/1gctQi1S-0ruOJR_nHF_J5BycCeM5AltQ?usp=sharing
+Pre-trained weights for all datasets are available at https://drive.google.com/drive/folders/1gctQi1S-0ruOJR_nHF_J5BycCeM5AltQ?usp=sharing
 
 All image datasets (1-7) are available for training and testing at https://drive.google.com/drive/folders/1Vkl0fgWk4Qf4csPtrfdnYqFro0cA85J3?usp=sharing
 
