@@ -25,8 +25,6 @@ All image datasets (1-7) are available for training and testing at https://drive
 ### Acknowledgement
 
 The Grad-CAM code in this repository has been adapted from https://github.com/kiraving/SegGradCAM.
-
 Dataset 4-7 are publicly available images from  https://lmb.informatik.uni-freiburg.de/resources/datasets/tem.en.html.
-
 We thank Gerhard Wanner for providing the images for dataset 1.
 
